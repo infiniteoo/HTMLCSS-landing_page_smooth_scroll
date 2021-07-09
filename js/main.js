@@ -1,4 +1,4 @@
-// option 2 - jquery smooth scroll
+/* // option 2 - jquery smooth scroll
 $(".navbar a").on("click", function (e) {
   if (this.hash !== "") {
     e.preventDefault();
@@ -13,3 +13,4 @@ $(".navbar a").on("click", function (e) {
     );
   }
 });
+ */
